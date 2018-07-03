@@ -2,7 +2,7 @@
 http://www.learn-c.org/
 Lesson 14
 
-This program will store the first three rows of Pascals triangle using dynamic memory allocation.
+This program will store the first three rows of Pascals triangle using dynamic memory allocation, arrays and pointers.
 */
 
 #include <stdio.h>
