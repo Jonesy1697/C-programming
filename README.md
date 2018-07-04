@@ -13,3 +13,15 @@ When downloading te source code, ensure that the code is stored in an appropiate
 cl file.c
 ```
 When using a .exe file, through either the examples or self-created, ensure that the compiled code is being executed in the command line, as many of the programs will have printline commands, which are only viewable on the command line.
+
+## Editing & Testing
+All source code is editable, in an appropriate text editor, as specified in the "Getting Started" chapter. If code is edited, it must then be re-compiled so that the .exe file corresponds to the updates.
+
+Ensure that all compiled code is run in the command line, as the code will feature printline commands not viewable in a standard execution.
+
+## Built with
+* [Visual Studio] (https://visualstudio.microsoft.com/) - The C editing software
+* [Learn-C.org] (http://www.learn-c.org/) - The tutorial resource 
+
+## Authors
+***Christopher Jones***
