@@ -7,8 +7,10 @@ Before working with the code, ensure that there is a form of text editor, prefer
 ### Prerequisites
 The tutorials work best by following the order written in, as they get progressively harder. Further explanation, with more examples, can be found on the tutorial website, http://www.learn-c.org/.
 
+Ensure that a keyboard and mouse are both connected to the computer for interaction, and a monitor is available to display the systems.
+
 ### Installing
-When downloading te source code, ensure that the code is stored in an appropiate folder, that is easy to find and navigate to in a command line interface. This will make it easier to test and execute completed code. All source code must be compiled from a .c extension to .exe, which in this example was done through the command line with the cl command, with the following format:
+When downloading the source code, ensure that the code is stored in an appropiate folder, that is easy to find and navigate to in a command line interface. This will make it easier to test and execute completed code. All source code must be compiled from a .c extension to .exe, which in this example was done through the command line with the cl command, with the following format:
 ```
 cl file.c
 ```
